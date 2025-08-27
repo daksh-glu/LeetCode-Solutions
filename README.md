@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -16,11 +17,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -42,6 +45,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Math
 |  |
@@ -58,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
