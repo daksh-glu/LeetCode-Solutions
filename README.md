@@ -79,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -116,4 +117,5 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
