@@ -156,6 +156,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
@@ -165,4 +166,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
