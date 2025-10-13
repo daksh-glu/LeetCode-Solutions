@@ -158,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
