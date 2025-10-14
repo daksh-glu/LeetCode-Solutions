@@ -143,6 +143,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
