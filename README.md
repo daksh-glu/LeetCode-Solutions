@@ -92,6 +92,7 @@
 | [0015-3sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -106,6 +107,7 @@
 | [0001-two-sum](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@
 | [0002-add-two-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
