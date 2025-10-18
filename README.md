@@ -34,6 +34,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,4 +217,5 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 <!---LeetCode Topics End-->
