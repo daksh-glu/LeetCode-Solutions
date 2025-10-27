@@ -106,6 +106,7 @@
 | [0283-move-zeroes](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -180,6 +181,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
