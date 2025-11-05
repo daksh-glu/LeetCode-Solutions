@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
