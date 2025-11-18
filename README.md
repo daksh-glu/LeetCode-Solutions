@@ -192,6 +192,7 @@
 | [0328-odd-even-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Quickselect
 |  |
 | ------- |
