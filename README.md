@@ -101,6 +101,7 @@
 | [0002-add-two-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -188,6 +189,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -219,6 +221,7 @@
 | [0014-longest-common-prefix](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0242-valid-anagram) |
