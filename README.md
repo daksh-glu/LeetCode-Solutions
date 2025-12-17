@@ -259,6 +259,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -315,11 +316,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -330,6 +333,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
