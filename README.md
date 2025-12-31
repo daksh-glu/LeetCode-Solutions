@@ -267,6 +267,7 @@
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -326,6 +327,7 @@
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -334,6 +336,7 @@
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -347,6 +350,7 @@
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
