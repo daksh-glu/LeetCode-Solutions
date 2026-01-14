@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
+        vector<vector<int>> result;
         int n = nums.size();
         int total = 1 << n;
 
@@ -12,8 +12,8 @@ public:
                     temp.push_back(nums[i]);
                 }
             }
-            ans.push_back(temp);
+            result.push_back(temp);
         }
-        return ans;
+        return result;
     }
 };
