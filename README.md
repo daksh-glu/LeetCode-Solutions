@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -227,6 +228,7 @@
 | [0013-roman-to-integer](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -375,6 +377,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Binary Search Tree
