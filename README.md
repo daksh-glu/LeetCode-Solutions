@@ -42,6 +42,7 @@
 | [0890-lemonade-change](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -171,6 +172,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
