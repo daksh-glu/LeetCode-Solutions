@@ -49,6 +49,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Divide and Conquer
 |  |
@@ -79,6 +80,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +226,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -391,4 +396,12 @@
 | [0450-delete-node-in-a-bst](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
