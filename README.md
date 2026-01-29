@@ -50,6 +50,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -255,6 +256,7 @@
 | [0812-rotate-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Trie
 |  |
 | ------- |
@@ -415,9 +417,11 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
