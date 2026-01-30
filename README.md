@@ -51,6 +51,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -207,6 +208,7 @@
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -257,10 +259,12 @@
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -418,10 +422,12 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
