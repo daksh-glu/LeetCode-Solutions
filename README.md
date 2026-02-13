@@ -56,6 +56,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3637-trionic-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
