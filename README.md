@@ -119,6 +119,7 @@
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -194,6 +195,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
@@ -252,6 +255,7 @@
 | [0022-generate-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0242-valid-anagram) |
