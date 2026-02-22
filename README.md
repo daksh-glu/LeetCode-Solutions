@@ -221,6 +221,7 @@
 | [0231-power-of-two](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
@@ -232,6 +233,7 @@
 | [0053-maximum-subarray](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
