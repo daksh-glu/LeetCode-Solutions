@@ -223,6 +223,7 @@
 | [0287-find-the-duplicate-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
 |  |
