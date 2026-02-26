@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -252,6 +253,7 @@
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
