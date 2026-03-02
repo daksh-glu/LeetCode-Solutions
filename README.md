@@ -137,6 +137,7 @@
 | [0029-divide-two-integers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -252,6 +253,7 @@
 | [0032-longest-valid-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -524,4 +526,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
