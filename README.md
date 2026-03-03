@@ -547,4 +547,8 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
