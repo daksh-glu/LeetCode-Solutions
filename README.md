@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -142,6 +143,7 @@
 | [0013-roman-to-integer](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -545,6 +547,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 ## Database
