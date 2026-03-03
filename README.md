@@ -149,6 +149,7 @@
 | [0066-plus-one](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -244,6 +245,7 @@
 | [0029-divide-two-integers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -507,6 +509,7 @@
 | [0039-combination-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Binary Search Tree
 |  |
 | ------- |
