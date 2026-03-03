@@ -150,6 +150,7 @@
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -269,6 +270,7 @@
 | [0063-unique-paths-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -443,6 +445,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -485,6 +488,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -513,6 +517,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
