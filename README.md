@@ -47,6 +47,7 @@
 | [0218-the-skyline-problem](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -110,6 +111,7 @@
 | [0218-the-skyline-problem](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
