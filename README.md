@@ -178,6 +178,7 @@
 | [0204-count-primes](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2050-count-good-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
@@ -614,4 +615,12 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
