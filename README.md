@@ -184,6 +184,7 @@
 | [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [2050-count-good-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -304,6 +305,7 @@
 | [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
 |  |
@@ -625,8 +627,10 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
