@@ -375,6 +375,7 @@
 | [0696-count-binary-substrings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
