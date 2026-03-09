@@ -213,6 +213,7 @@
 | [0287-find-the-duplicate-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -305,6 +306,7 @@
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -370,6 +372,7 @@
 | [0316-remove-duplicate-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
