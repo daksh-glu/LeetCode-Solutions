@@ -55,6 +55,7 @@
 | [0332-reconstruct-itinerary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -120,6 +121,7 @@
 | [0347-top-k-frequent-elements](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
