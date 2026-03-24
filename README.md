@@ -192,6 +192,7 @@
 | [0326-power-of-three](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -331,6 +332,7 @@
 | [0043-multiply-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
@@ -389,6 +391,7 @@
 | [0389-find-the-difference](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
