@@ -232,6 +232,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -342,6 +343,7 @@
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
@@ -413,6 +415,7 @@
 | [0696-count-binary-substrings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -462,6 +465,7 @@
 | [0316-remove-duplicate-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
