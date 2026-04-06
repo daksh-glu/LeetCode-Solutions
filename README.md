@@ -60,6 +60,7 @@
 | [0463-island-perimeter](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -126,6 +127,7 @@
 | [0414-third-maximum-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -140,6 +142,7 @@
 | [0332-reconstruct-itinerary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
