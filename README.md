@@ -75,6 +75,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1408-string-matching-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -428,6 +429,7 @@
 | [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -444,6 +446,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Recursion
 |  |
 | ------- |
