@@ -201,6 +201,7 @@
 | [0292-nim-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -339,6 +340,7 @@
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
