@@ -67,6 +67,7 @@
 | [0561-array-partition](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -131,6 +132,7 @@
 | [0455-assign-cookies](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
