@@ -338,6 +338,7 @@
 | [0063-unique-paths-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -406,6 +407,7 @@
 | [0058-length-of-last-word](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
