@@ -283,6 +283,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
 |  |
@@ -443,6 +444,7 @@
 | [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -524,6 +526,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
