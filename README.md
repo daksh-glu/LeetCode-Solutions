@@ -61,6 +61,7 @@
 | [0485-max-consecutive-ones](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -502,6 +503,7 @@
 | [0234-palindrome-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -568,6 +570,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2573-remove-nodes-from-linked-list](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Quickselect
