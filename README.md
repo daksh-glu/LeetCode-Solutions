@@ -87,6 +87,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -143,6 +144,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -217,6 +219,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -712,6 +715,7 @@
 | [0063-unique-paths-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Database
 |  |
 | ------- |
