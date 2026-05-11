@@ -90,6 +90,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -377,6 +378,7 @@
 | [0495-teemo-attacking](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
