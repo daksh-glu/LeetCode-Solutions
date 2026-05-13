@@ -46,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/dakshjain2005/LeetCode-Solutions/tree/master/0283-move-zeroes) |
