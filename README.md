@@ -217,6 +217,7 @@
 | [0367-valid-perfect-square](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/daksh-glu/LeetCode-Solutions/tree/master/1025-divisor-game) |
